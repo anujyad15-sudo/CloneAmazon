@@ -70,29 +70,18 @@ While building this project, I practiced:
 
 ---
 
-## 📈 Future Improvements
-
-- Make the website fully responsive for mobile devices
-- Add JavaScript functionality
-- Implement product search
-- Create additional pages
-- Integrate a backend for authentication
-- Add shopping cart functionality
-
----
-
 ## 💻 Getting Started
 
 Clone the repository
 
 ```bash
-git clone https://github.com/your-username/amazon-clone.git
+git clone https://github.com/anujyad15-sudo/CloneAmazon.git
 ```
 
 Navigate to the project folder
 
 ```bash
-cd amazon-clone
+cd CloneAmazon
 ```
 
 Open `index.html` in your browser.
@@ -117,6 +106,6 @@ Amazon®, its logo, and related trademarks belong to Amazon.com, Inc. This proje
 
 ## 👨‍💻 Author
 
-**Nobin**
+**Anuj Yadav**
 
-GitHub: https://github.com/your-github-username
+GitHub:https://github.com/anujyad15-sudo
